@@ -1,6 +1,6 @@
 # MambaGesture
 
-This is the repository that contains source code for the [MambaGesture website](https://fcchit.github.io).
+This is the repository that contains source code for the [MambaGesture website](https://fcchit.github.io/mambagesture).
 
 <!-- If you find MambaGesture useful for your work please cite:
 ```
